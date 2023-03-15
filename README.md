@@ -21,7 +21,7 @@ Server Build      | Maven
 ### Prerequisites
 -  Install Java 11 from the OpenJDK
 -  Install Node.js from the Node.js website
--  Clone the repo `git clone https://github.com/keumtae-kim/spring-boot-react-blog.git`
+-  Clone the repo `git clone https://github.com/whitebird1016/Spring-Boot-React-Blog`
 
 ### Backend
 - Go to your project folder from your terminal
